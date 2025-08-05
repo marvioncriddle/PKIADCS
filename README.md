@@ -97,9 +97,15 @@ scp 'c:\Users\Administrator\Desktop\certificate request.txt' administrator@ZYWIN
 
 </br>
 
-Text file successfully copied over with SCP
+- Text file successfully copied over with SCP
 
-![https://imgur.com/0GojlOc](https://imgur.com/0GojlOc.png)
+</br>
+
+<div align="center">
+  <img alt="PKI7" width="600px" src="https://imgur.com/zXyy0vN.jpeg" />
+</div>
+
+</br>
 
 ## Issued and Delivered Digital Certificate
 
@@ -107,7 +113,13 @@ Processed the CSR and issued a certificate from the CA.
 
 Emulates the internal CA workflow for managing certificates for endpoints, web servers, and VPN appliances.
 
-![PKI9](https://imgur.com/J8gE6Z3.png)
+</br>
+
+<div align="center">
+  <img alt="PKI7" width="600px" src="https://imgur.com/pNdy8HO.jpeg" />
+</div>
+
+</br>
 
 ## Bound Certificate to HTTPS (TCP 443)
 
@@ -115,7 +127,13 @@ Applied the issued certificate to the IIS website to enable encrypted traffic vi
 
 Demonstrates the implementation of SSL/TLS encryption required by regulatory frameworks (e.g., HIPAA, PCI-DSS).
 
-![PKI10](https://imgur.com/FYbvBCs.png)
+</br>
+
+<div align="center">
+  <img alt="PKI7" width="600px" src="https://imgur.com/5Tfe0j5.jpeg" />
+</div>
+
+</br>
 
 ## Enterprise Alignment & Use Case Relevance
 This lab replicates an enterprise-grade Public Key Infrastructure (PKI) deployment using native Microsoft technologies.  It closely aligns with real-world IT and security practices across sectors:
